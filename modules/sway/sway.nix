@@ -56,7 +56,7 @@ in
         { command = "exec swaync"; }
       ];
       
-      defaultWorkspace = "0";
+      defaultWorkspace = "workspace number 1";
 
  	    input = {
         "type:keyboard" = {

@@ -26,7 +26,9 @@
     prismlauncher
 
     # gui misc
-    dropbox-cli # service to sync keepass and obsidian
+    audacious audacious-plugins # music player
+    strawberry # another player
+    dropbox-cli yandex-disk # cloud services
     keepassxc # password manager
     leafpad # notepad
     tigervnc # for viewing vnc
@@ -54,7 +56,7 @@
     # cli misc
     python311Packages.pygobject3 python311Packages.gst-python
     ranger # cli file manager
-    #ffmpeg-full # ffmpeg
+    ffmpeg-full # ffmpeg
     pulsemixer # pulseaudio mixer
     wget comma fzf nix-zsh-completions # comma is for nix apps that not installed, fzf -- fuzzy finder
     killall jq figlet # jq is like sed for JSON data, figlet generates text banners
@@ -74,7 +76,7 @@
     ecryptfs cryfs # for encrypting folders 
     gcalcli # google calendar cli
     fanctl # fanconrol
-    #imagemagick # for cli editing
+    imagemagick # for cli editing
     unzip unrar # some useless stuff
   ];
 
