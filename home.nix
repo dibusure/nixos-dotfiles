@@ -25,11 +25,15 @@
     discord telegram-desktop floorp # two messengers and browser
     libsForQt5.dolphin # file manager
     libsForQt5.okular # pdf viewer
+    obsidian # note-taking app
+    keepassxc # password manager
+    qbittorrent # torrent manager
 
     # cli misc
     pfetch screenfetch neofetch # better neofetchs and neofetch
     tmux screen # two amazing multiplexers 
     fanctl # fanconrol
+    steam-run # to run different apps
     unzip unrar # some useless stuff
   ];
 
